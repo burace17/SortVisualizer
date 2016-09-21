@@ -92,6 +92,7 @@ namespace SortVisualizer
             btnSelectSort.Enabled = false;
             btnInsertSort.Enabled = false;
             btnMergeSort.Enabled = false;
+            btnQuickSort.Enabled = false;
             btnRandomize.Enabled = false;
             foreach (TextBox txt in _textboxes)
             {
