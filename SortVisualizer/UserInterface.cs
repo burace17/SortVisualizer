@@ -414,6 +414,7 @@ namespace SortVisualizer
             btnSelectSort.Enabled = true;
             btnInsertSort.Enabled = true;
             btnMergeSort.Enabled = true;
+			btnQuickSort.Enabled = true;
 
             foreach (TextBox txt in _textboxes)
             {
